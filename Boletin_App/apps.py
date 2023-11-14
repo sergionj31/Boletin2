@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class Boletin2AppConfig(AppConfig):
+class BoletinAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'boletin2App'
+    name = 'Boletin_App'
